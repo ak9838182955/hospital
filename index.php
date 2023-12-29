@@ -2,7 +2,7 @@
 
     $db_name = 'mysql:host=localhost;dbname=hospital-contact_db';
     $username = 'root';
-    $password = 'secret';
+    $password = 'rama123';
 
     $conn = new PDO($db_name, $username, $password);
 
